@@ -1,4 +1,6 @@
-# Highly motivated and detail-oriented data analytics graduate student with five years of experience as a Java Developer. Seeking a challenging position where I can leverage my skills in data analysis, machine learning, and software development to contribute to the success of an organization.
+
+# Data Analyst
+Highly motivated and detail-oriented data analytics graduate student with five years of experience as a Java Developer. Seeking a challenging position where I can leverage my skills in data analysis, machine learning, and software development to contribute to the success of an organization.
 
 
 # Projects
